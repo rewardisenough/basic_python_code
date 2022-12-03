@@ -23,4 +23,4 @@ One array that contains all of the possible numbers. It contains three 10s(Jack,
 
 #### Outputs
 
-* After user gave the input 'no', final score and cards are shown for both user and dealer. Game ends and outputs are shown whether user has won the game or not.
+* After user gave the input 'no', final score and cards are shown for both user and dealer. Game ends and outputs are shown whether user has won the game or not. Then, ask the user if they want to play the blackjack again.
