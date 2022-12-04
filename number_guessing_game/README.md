@@ -17,10 +17,7 @@ To create a number guessing game.
 Greets user and generate a random number between 1 and 100 then store it into a variable.
 
 #### user_input():
-Ask the user to guess a number. Keeps a counter of how many attempts are left or whether game should be ended.
-
-#### Calculate():
-Calculate if user's guess is lower, higher, or equal to the goal number.
+Ask the user to guess a number. Keeps a counter of how many attempts are left or whether game should be ended. Calculate if user's guess is lower, higher, or equal to the goal number.
 
 #### Conclusion():
 If the user guessed the correct number, then print f"You got it! The answer was {answer}." Then, ask the user if they want to play again.
