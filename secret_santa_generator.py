@@ -1,7 +1,7 @@
 from IPython.display import clear_output 
 import random
 
-arr_1 = ['person1','person2','person3','person4'] # four people in this case, but could be any number.
+arr_1 = ['person1','person2','person3','person4'] # four people in this case, but could be any number. Elements should perons's name.
 
 for i in range(10):
   random.shuffle(arr_1) # shuffle the list 10 times but also could shuffle any number of times.
